@@ -1,0 +1,60 @@
+{
+    "song1" : {
+       "Title" : "Ulap",
+       "Artist" : "Rob Deniel",
+       "Release Date" : "2021",
+       "Genre":"Pop",
+       "Link":"https://www.youtube.com/watch?v=nXOe-p94AQI&t=2s",
+       "id": 1
+    },
+    
+    "song2" : {
+        "Title" : "I Choose You",
+        "Artist" : "Ryann Darling",
+        "Release Date" : "2016",
+        "Genre":"Pop",
+        "Link":"https://www.youtube.com/watch?v=fXN-m49MHO0",
+        "id": 2
+     },
+    
+     "song3" : {
+        "Title" : "Giants",
+        "Artist" : "Neoni",
+        "Release Date" : "2019",
+        "Genre":"Alternative/Indie",
+        "Link":"https://www.youtube.com/watch?v=bWiZweZi-YE",
+        "id": 3
+     },
+      "song4" : {
+        "Title" : "Musika",
+        "Artist" : "Dionela",
+        "Release Date" : "2022",
+        "Genre":"Pop",
+        "Link":"https://www.youtube.com/watch?v=5Uuq9dTBXII",
+        "id": 4
+     },
+      "song5" : {
+         "Title" : "Sugal ",
+         "Artist" : "Dionela",
+         "Release Date" : "2021",
+         "Genre":"Vietnamese Pop",
+         "Link":"https://www.youtube.com/watch?v=Iw5kg_LlGhg",
+         "id": 5
+   },
+      "song6" : {
+         "Title" : "Gusto ",
+         "Artist" : "Zack Tabudlo & Al James",
+         "Release Date" : "2023",
+         "Genre":"R&B",
+         "Link":"https://www.youtube.com/watch?v=RztIyWaA7ck",
+         "id": 6
+   }, 
+   "song7" : {
+      "Title" : "Stranger ",
+      "Artist" : "Kenya Grace",
+      "Release Date" : "2023",
+      "Genre":"Drum 'N' Bass",
+      "Link":"https://www.youtube.com/watch?v=S2TaAcwC_zI",
+      "id": 7
+}
+}
